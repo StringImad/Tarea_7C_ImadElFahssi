@@ -1,0 +1,218 @@
+[ {
+  "curso" : "1ESOC",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LCL",
+  "aula" : "403",
+  "diaDeLaSemana" : 1,
+  "horaDelDia" : 1
+}, {
+  "curso" : "3ESOB",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LCL",
+  "aula" : "406",
+  "diaDeLaSemana" : 1,
+  "horaDelDia" : 2
+}, {
+  "curso" : "3ESOD",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "CLAI",
+  "aula" : "426",
+  "diaDeLaSemana" : 1,
+  "horaDelDia" : 3
+}, {
+  "curso" : "3ESOE",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "CLAI",
+  "aula" : "426",
+  "diaDeLaSemana" : 1,
+  "horaDelDia" : 3
+}, {
+  "curso" : "3ESOF",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "CLAI",
+  "aula" : "426",
+  "diaDeLaSemana" : 1,
+  "horaDelDia" : 3
+}, {
+  "curso" : "3ESOG",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "CLAI",
+  "aula" : "426",
+  "diaDeLaSemana" : 1,
+  "horaDelDia" : 3
+}, {
+  "curso" : "1ESOD",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LIBD6",
+  "aula" : "407",
+  "diaDeLaSemana" : 1,
+  "horaDelDia" : 5
+}, {
+  "curso" : "1ESOE",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LIBD6",
+  "aula" : "407",
+  "diaDeLaSemana" : 1,
+  "horaDelDia" : 5
+}, {
+  "curso" : "1ESOF",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LIBD6",
+  "aula" : "407",
+  "diaDeLaSemana" : 1,
+  "horaDelDia" : 5
+}, {
+  "curso" : "1ESOG",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LIBD6",
+  "aula" : "407",
+  "diaDeLaSemana" : 1,
+  "horaDelDia" : 5
+}, {
+  "curso" : "3ESOB",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LCL",
+  "aula" : "406",
+  "diaDeLaSemana" : 2,
+  "horaDelDia" : 1
+}, {
+  "curso" : "4ESOE",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LCL",
+  "aula" : "111",
+  "diaDeLaSemana" : 2,
+  "horaDelDia" : 2
+}, {
+  "curso" : "1ESOD",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LIBD6",
+  "aula" : "407",
+  "diaDeLaSemana" : 3,
+  "horaDelDia" : 5
+}, {
+  "curso" : "1ESOE",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LIBD6",
+  "aula" : "407",
+  "diaDeLaSemana" : 3,
+  "horaDelDia" : 5
+}, {
+  "curso" : "1ESOF",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LIBD6",
+  "aula" : "407",
+  "diaDeLaSemana" : 3,
+  "horaDelDia" : 5
+}, {
+  "curso" : "1ESOG",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LIBD6",
+  "aula" : "407",
+  "diaDeLaSemana" : 3,
+  "horaDelDia" : 5
+}, {
+  "curso" : "1ESOC",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LCL",
+  "aula" : "403",
+  "diaDeLaSemana" : 3,
+  "horaDelDia" : 7
+}, {
+  "curso" : "3ESOB",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LCL",
+  "aula" : "406",
+  "diaDeLaSemana" : 4,
+  "horaDelDia" : 1
+}, {
+  "curso" : "1ESOC",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LCL",
+  "aula" : "403",
+  "diaDeLaSemana" : 4,
+  "horaDelDia" : 3
+}, {
+  "curso" : "1ESOC",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "TUT",
+  "aula" : "403",
+  "diaDeLaSemana" : 4,
+  "horaDelDia" : 5
+}, {
+  "curso" : "2ESOA",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LIBD1",
+  "aula" : "422",
+  "diaDeLaSemana" : 4,
+  "horaDelDia" : 6
+}, {
+  "curso" : "2ESOC",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LIBD1",
+  "aula" : "422",
+  "diaDeLaSemana" : 4,
+  "horaDelDia" : 6
+}, {
+  "curso" : "2ESOD",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LIBD1",
+  "aula" : "422",
+  "diaDeLaSemana" : 4,
+  "horaDelDia" : 6
+}, {
+  "curso" : "4ESOE",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LCL",
+  "aula" : "111",
+  "diaDeLaSemana" : 4,
+  "horaDelDia" : 7
+}, {
+  "curso" : "3ESOB",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LCL",
+  "aula" : "406",
+  "diaDeLaSemana" : 5,
+  "horaDelDia" : 1
+}, {
+  "curso" : "1ESOC",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LCL",
+  "aula" : "403",
+  "diaDeLaSemana" : 5,
+  "horaDelDia" : 2
+}, {
+  "curso" : "3ESOD",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "CLAI",
+  "aula" : "425",
+  "diaDeLaSemana" : 5,
+  "horaDelDia" : 3
+}, {
+  "curso" : "3ESOE",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "CLAI",
+  "aula" : "425",
+  "diaDeLaSemana" : 5,
+  "horaDelDia" : 3
+}, {
+  "curso" : "3ESOF",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "CLAI",
+  "aula" : "425",
+  "diaDeLaSemana" : 5,
+  "horaDelDia" : 3
+}, {
+  "curso" : "3ESOG",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "CLAI",
+  "aula" : "425",
+  "diaDeLaSemana" : 5,
+  "horaDelDia" : 3
+}, {
+  "curso" : "4ESOE",
+  "inicalesProfesor" : "RIG",
+  "asignatura" : "LCL",
+  "aula" : "111",
+  "diaDeLaSemana" : 5,
+  "horaDelDia" : 7
+} ]

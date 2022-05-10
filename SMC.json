@@ -1,0 +1,183 @@
+[ {
+  "curso" : "2ESOA",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "423",
+  "diaDeLaSemana" : 1,
+  "horaDelDia" : 4
+}, {
+  "curso" : "2ESOB",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "423",
+  "diaDeLaSemana" : 1,
+  "horaDelDia" : 4
+}, {
+  "curso" : "1BSH",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "211",
+  "diaDeLaSemana" : 1,
+  "horaDelDia" : 5
+}, {
+  "curso" : "4ESOD",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "422",
+  "diaDeLaSemana" : 1,
+  "horaDelDia" : 6
+}, {
+  "curso" : "4ESOD",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "203",
+  "diaDeLaSemana" : 2,
+  "horaDelDia" : 1
+}, {
+  "curso" : "1ESOH",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "201",
+  "diaDeLaSemana" : 2,
+  "horaDelDia" : 2
+}, {
+  "curso" : "1ESOI",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "201",
+  "diaDeLaSemana" : 2,
+  "horaDelDia" : 2
+}, {
+  "curso" : "4ESOB",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "201",
+  "diaDeLaSemana" : 2,
+  "horaDelDia" : 4
+}, {
+  "curso" : "1ESOD",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "405",
+  "diaDeLaSemana" : 2,
+  "horaDelDia" : 5
+}, {
+  "curso" : "1ESOE",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "405",
+  "diaDeLaSemana" : 2,
+  "horaDelDia" : 5
+}, {
+  "curso" : "1BCT",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "201",
+  "diaDeLaSemana" : 3,
+  "horaDelDia" : 3
+}, {
+  "curso" : "2ESOG",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "422",
+  "diaDeLaSemana" : 3,
+  "horaDelDia" : 5
+}, {
+  "curso" : "2ESOH",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "422",
+  "diaDeLaSemana" : 3,
+  "horaDelDia" : 5
+}, {
+  "curso" : "4ESOB",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "422",
+  "diaDeLaSemana" : 3,
+  "horaDelDia" : 6
+}, {
+  "curso" : "1BSH",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "201",
+  "diaDeLaSemana" : 4,
+  "horaDelDia" : 1
+}, {
+  "curso" : "1ESOH",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "201",
+  "diaDeLaSemana" : 4,
+  "horaDelDia" : 2
+}, {
+  "curso" : "1ESOI",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "201",
+  "diaDeLaSemana" : 4,
+  "horaDelDia" : 2
+}, {
+  "curso" : "1ESOD",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "405",
+  "diaDeLaSemana" : 4,
+  "horaDelDia" : 5
+}, {
+  "curso" : "1ESOE",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "405",
+  "diaDeLaSemana" : 4,
+  "horaDelDia" : 5
+}, {
+  "curso" : "2ESOA",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "423",
+  "diaDeLaSemana" : 5,
+  "horaDelDia" : 2
+}, {
+  "curso" : "2ESOB",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "423",
+  "diaDeLaSemana" : 5,
+  "horaDelDia" : 2
+}, {
+  "curso" : "4ESOD",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "422",
+  "diaDeLaSemana" : 5,
+  "horaDelDia" : 3
+}, {
+  "curso" : "2ESOG",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "422",
+  "diaDeLaSemana" : 5,
+  "horaDelDia" : 4
+}, {
+  "curso" : "2ESOH",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "422",
+  "diaDeLaSemana" : 5,
+  "horaDelDia" : 4
+}, {
+  "curso" : "4ESOB",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "423",
+  "diaDeLaSemana" : 5,
+  "horaDelDia" : 5
+}, {
+  "curso" : "1BCT",
+  "inicalesProfesor" : "SMC",
+  "asignatura" : "FR2",
+  "aula" : "TIC3",
+  "diaDeLaSemana" : 5,
+  "horaDelDia" : 6
+} ]
