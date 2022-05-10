@@ -62,7 +62,7 @@ public class GestionHorarios {
                 try {
                     switch (Integer.parseInt(eleccion)) {
                         case 1:
-                             imprimirSet(conjuntoInicialesProfesores);
+                            imprimirSet(conjuntoInicialesProfesores);
                             do {
                                 System.out.println("Elige un profesor; ");
                                 eleccionInicialGrupo = teclado.nextLine();

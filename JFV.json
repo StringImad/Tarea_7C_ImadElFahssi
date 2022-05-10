@@ -1,0 +1,78 @@
+[ {
+  "curso" : "1DAW",
+  "inicalesProfesor" : "JFV",
+  "asignatura" : "PROGR",
+  "aula" : "103",
+  "diaDeLaSemana" : 1,
+  "horaDelDia" : 5
+}, {
+  "curso" : "1DAW",
+  "inicalesProfesor" : "JFV",
+  "asignatura" : "PROGR",
+  "aula" : "103",
+  "diaDeLaSemana" : 1,
+  "horaDelDia" : 6
+}, {
+  "curso" : "1DAW",
+  "inicalesProfesor" : "JFV",
+  "asignatura" : "PROGR",
+  "aula" : "103",
+  "diaDeLaSemana" : 2,
+  "horaDelDia" : 3
+}, {
+  "curso" : "1DAW",
+  "inicalesProfesor" : "JFV",
+  "asignatura" : "PROGR",
+  "aula" : "103",
+  "diaDeLaSemana" : 2,
+  "horaDelDia" : 4
+}, {
+  "curso" : "1DAW",
+  "inicalesProfesor" : "JFV",
+  "asignatura" : "PROGR",
+  "aula" : "103",
+  "diaDeLaSemana" : 3,
+  "horaDelDia" : 5
+}, {
+  "curso" : "1DAW",
+  "inicalesProfesor" : "JFV",
+  "asignatura" : "PROGR",
+  "aula" : "103",
+  "diaDeLaSemana" : 3,
+  "horaDelDia" : 6
+}, {
+  "curso" : "1DAW",
+  "inicalesProfesor" : "JFV",
+  "asignatura" : "PROGR",
+  "aula" : "103",
+  "diaDeLaSemana" : 4,
+  "horaDelDia" : 3
+}, {
+  "curso" : "1DAW",
+  "inicalesProfesor" : "JFV",
+  "asignatura" : "PROGR",
+  "aula" : "103",
+  "diaDeLaSemana" : 4,
+  "horaDelDia" : 4
+}, {
+  "curso" : "2DAW",
+  "inicalesProfesor" : "JFV",
+  "asignatura" : "DAWEB",
+  "aula" : "104",
+  "diaDeLaSemana" : 4,
+  "horaDelDia" : 6
+}, {
+  "curso" : "2DAW",
+  "inicalesProfesor" : "JFV",
+  "asignatura" : "DAWEB",
+  "aula" : "104",
+  "diaDeLaSemana" : 5,
+  "horaDelDia" : 5
+}, {
+  "curso" : "2DAW",
+  "inicalesProfesor" : "JFV",
+  "asignatura" : "DAWEB",
+  "aula" : "104",
+  "diaDeLaSemana" : 5,
+  "horaDelDia" : 6
+} ]

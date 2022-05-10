@@ -1,3 +1,6 @@
-imad\tarea7c_imadelfahssi\HorarioProfesorado.class
-imad\tarea7c_imadelfahssi\ServiciosNecesarios.class
-imad\tarea7c_imadelfahssi\GestionHorarios.class
+parte_a/GestionHorarios.class
+parte_a/MetodosUtiles.class
+parte_a/ServiciosNecesarios.class
+parte_a/HorarioProfesorado.class
+parte_b/GestionHorariosApiStream.class
+.netbeans_automatic_build
