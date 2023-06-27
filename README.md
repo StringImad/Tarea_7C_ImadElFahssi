@@ -46,6 +46,7 @@ b) Consultar horarios por grupo.
 Si el usuario selecciona a), el programa mostrará las iniciales del profesorado, para que el usuario elija una. Una vez proporcionada la inicial por parte del usuario, el programa guardará en un fichero json, en la raíz del proyecto, el horario seleccionado, si existe, volcando el objeto POJO en el archivo, al igual que hicimos con el ejercicio de las app. El nombre del fichero estará compuesto por las iniciales del profesor en cuestión y la extensión del archivo. Por ejemplo, para el profesor JCF, el archivo se llamará JCF.json. 
 
 Si el usuario selecciona b), el programa mostrará los grupos que hay en el instituto, para que el usuario elija uno. Una vez proporcionado el grupo, el programa guardará en un fichero csv, en la raíz del proyecto, el horario seleccionado, si existe. El nombre del fichero estará compuesto por las iniciales del grupo en cuestión y la extensión del archivo. Por ejemplo, para el grupo 1DAW, el archivo se llamará 1DAW.csv.
+<hr>
 
 PARTE B
 
